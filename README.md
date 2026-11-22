@@ -7,3 +7,10 @@ This project demonstrates my practical learning of frontend development, JavaScr
 ## 🌐 Live Demo
 
 [View Weather Dashboard](https://weather-dashboard-cpic.onrender.com)
+
+## ✨ Features
+
+- Search weather information by city.
+- Display current temperature.
+- Show weather conditions.
+- Provide location-based weather information.
