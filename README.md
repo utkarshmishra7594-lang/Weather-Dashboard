@@ -14,3 +14,10 @@ This project demonstrates my practical learning of frontend development, JavaScr
 - Display current temperature.
 - Show weather conditions.
 - Provide location-based weather information.
+
+- ## 🛠️ Technologies Used
+
+- HTML5 — Structure of the application
+- CSS3 — Styling and layout
+- JavaScript — Application logic and interactivity
+- Weather API — Fetching weather information
