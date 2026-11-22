@@ -21,3 +21,21 @@ This project demonstrates my practical learning of frontend development, JavaScr
 - CSS3 — Styling and layout
 - JavaScript — Application logic and interactivity
 - Weather API — Fetching weather information
+
+- ## 🚀 Run Locally
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/utkarshmishra7594-lang/Weather-Dashboard.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd Weather-Dashboard
+   ```
+
+3. Open `index.html` in your web browser.
+
+**Note:** If a Weather API key is required, configure it according to the project's code before running.
