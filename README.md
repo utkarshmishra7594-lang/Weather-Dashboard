@@ -8,6 +8,10 @@ This project demonstrates my practical learning of frontend development, JavaScr
 
 [View Weather Dashboard](https://weather-dashboard-cpic.onrender.com)
 
+## 📸 Screenshot
+
+![Weather Dashboard](weather-dashboard.png)
+
 ## ✨ Features
 
 - Search weather information by city.
@@ -40,6 +44,4 @@ This project demonstrates my practical learning of frontend development, JavaScr
 
 **Note:** If a Weather API key is required, configure it according to the project's code before running.
 
-## 📸 Screenshot
 
-![Weather Dashboard](weather-dashboard.png)
