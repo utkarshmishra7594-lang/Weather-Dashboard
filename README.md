@@ -39,3 +39,7 @@ This project demonstrates my practical learning of frontend development, JavaScr
 3. Open `index.html` in your web browser.
 
 **Note:** If a Weather API key is required, configure it according to the project's code before running.
+
+## 📸 Screenshot
+
+![Weather Dashboard](weather-dashboard.png)
